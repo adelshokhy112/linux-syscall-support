@@ -1,0 +1,7 @@
+#summary Projects that use linux_syscall_support.h
+
+= Projects that use linux_syscall_support.h =
+
+ * Chromium
+ * Breakpad
+ * Native Client, in nacl_bootstrap.c
